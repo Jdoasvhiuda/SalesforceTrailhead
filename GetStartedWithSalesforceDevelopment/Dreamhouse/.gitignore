@@ -45,7 +45,6 @@ $RECYCLE.BIN/
 **/venv/
 
 #NPM Node Modules
-node_modules/
-**/node_modules/
+**/node_modules/**
 **/package-lock.json
 
